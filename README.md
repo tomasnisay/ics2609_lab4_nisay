@@ -1,6 +1,6 @@
 # SQL Queries API Lab
 
-**Author:** *Dylan Morene Dela Cruz*  
+**Author:** *Tomas Enrico NIsay*  
 
 ---
 
